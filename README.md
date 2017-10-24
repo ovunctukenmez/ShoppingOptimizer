@@ -1,11 +1,13 @@
 # ShoppingOptimizer PHP Class
 <strong>ShoppingOptimizer </strong> is a <strong>PHP</strong> class that is used to find the most profitable ways to purchase items using cart discount coupons in one or multiple cart parts.
 
+<li>[a relative link](README.md)</li>
+
 Example script is included in the package. (example.php)<br />
 <h2>Sample Outputs</h2>
 <ul>
-<li>Example with no budget limit [a relative link](example_output.html)</li>
-<li>Example with budget [a workaround link](repo/blob/master/example_with_budget_output.html)</li>
+<li>Example with no budget limit (example_output.html)</li>
+<li>Example with budget (example_with_budget_output.html)</li>
 </ul>
 
 <h2>Public Methods of Class</h2>
