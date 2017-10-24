@@ -5,7 +5,7 @@ Example script is included in the package. (example.php)<br />
 <h2>Sample Outputs</h2>
 <ul>
 <li>Example with no budget limit [a relative link](example_output.html)</li>
-<li>Example with budget [a relative link](/example_with_budget_output.html)</li>
+<li>Example with budget [a relative link](repo/blob/master/example_with_budget_output.html)</li>
 </ul>
 
 <h2>Public Methods of Class</h2>
